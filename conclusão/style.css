@@ -12,11 +12,13 @@
 }
 
   footer{
-  
-  text-align: center;
-  background-color: #0046a1;
-  padding: 6px;
-  color:#fff;
+    text-align: center;
+    background-color: #0046a1;
+    padding: 6px;
+    color: #fff;
+    position: absolute;
+    width: 100% ;
+    bottom: 0;
   }
 
   
