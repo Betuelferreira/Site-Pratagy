@@ -1,18 +1,25 @@
 
 body {
+  
+  background-image: url("../imagens/fundo.png");
+  background-size: 100%;
   background-repeat: no-repeat;
-}
 
-#background-login{
+} 
+
+
+/* 
+
+ #background-login{
   
   width: 100%;
 
 }
-
+ */
 
 .navbar{
     background-color: #007afd;  
-   padding: 0;
+    padding: 0;
   } 
   
   
@@ -28,14 +35,15 @@ body {
   }
 
   #tcadastro{
+    
     box-shadow: 1px 1px 10px 1px rgb(2, 2, 2);
-   margin-top: 10vh;
-   margin-bottom: 5vh;
-   width: 40%;
-   
-   display: flex;
-  flex-direction: column;
-  align-items: center
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+    
   }
 
 #imglogin{
