@@ -2,7 +2,7 @@ body {
     background-image: url("../imagens/fundo.png");
     background-size: 100%;
     background-repeat: no-repeat;
-    background-size: 100vh;
+    /* background-size: 100vh; */
 }
 
 .navbar {
@@ -72,6 +72,9 @@ h2 {
 }
 
 @media (max-width: 650px) {
+    body {
+        background-size: 100vh;
+    }
     footer {
         position: absolute;
         padding: 12px;
