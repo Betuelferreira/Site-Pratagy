@@ -1,101 +1,82 @@
-
 body {
-  
-  background-image: url("../imagens/fundo.png");
-  background-size: 100%;
-  background-repeat: no-repeat;
+    background-image: url("../imagens/fundo.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
 
-} 
-
-
-.navbar{
-    background-color: #007afd;  
+.navbar {
+    background-color: #007afd;
     padding: 0;
-  } 
-  
-  
-  footer{
+}
+
+footer {
     text-align: center;
     background-color: #0046a1;
     padding: 6px;
     color: #fff;
     position: absolute;
-    width: 100% ;
+    width: 100%;
     bottom: 0;
-  }
+}
 
-  #tcadastro{
-    
+#tcadastro {
     box-shadow: 1px 1px 10px 1px rgb(2, 2, 2);
-    margin-top: 10vh;
-    margin-bottom: 5vh;
+    margin-top: 20vh;
+    margin-bottom: 25vh;
     width: 40%;
     display: flex;
     flex-direction: column;
-    align-items: center
-    
-  }
-
-#imglogin{
-  margin-top: 15px;
-  
+    justify-content: center;
+    align-items: center;
 }
 
-h2{
-  size: 10px;
-  color: #0046a1;
-  margin-top: 10px;
-  margin-bottom: 0px;
+#imglogin {
+    margin-top: 15px;
 }
 
-
-.form{
-  width: 100%;
+h2 {
+    size: 10px;
+    color: #0046a1;
+    margin-top: 10px;
+    margin-bottom: 0px;
 }
 
-#botão{
-  
-  background-color: #007afd;
-  width: 100%;
-  height: 30px;
-  border: 0;
-  border-radius: 8px;
-  margin-bottom: 10px;
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  color: #fff;
-
- }
-
- #lbotão{
-  margin-top: 16px;
-  margin-bottom: 16px;
-  background-color: #007afd;
-  width: 90%;
-  height: 30px;
-  border: 0;
-  border-radius: 10px;
-
-} 
-
-#botão:hover{
-  background-color: blue;
+.form {
+    width: 100%;
 }
 
-  @media (max-width: 650px) {
-  
-  
-  footer{
-  
-   padding: 2px;
-   
-  }
-  #tcadastro{
-   
-   width: 90%;
-   height: 300px;
-   
-   
-   align-items: center; 
-  }
+#botão {
+    background-color: #007afd;
+    width: 100%;
+    height: 30px;
+    border: 0;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #fff;
+}
 
-  }
+#lbotão {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    background-color: #007afd;
+    width: 90%;
+    height: 30px;
+    border: 0;
+    border-radius: 10px;
+}
+
+#botão:hover {
+    background-color: blue;
+}
+
+@media (max-width: 650px) {
+    footer {
+        padding: 2px;
+    }
+    #tcadastro {
+        width: 90%;
+        height: 300px;
+        align-items: center;
+    }
+}
