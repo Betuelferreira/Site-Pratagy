@@ -3,8 +3,24 @@
     padding: 0;
 }
 
-#navbarSupportedContent2 {
-    border-left: 10px;
+#nav {
+    padding-left: 7vw;
+}
+
+#navbarSupportedContent {
+    padding-left: 35vw;
+}
+
+#lcadiado {
+    margin-left: 4vw;
+}
+
+li {
+    margin-left: 2vw;
+}
+
+li:hover {
+    background-color: aqua;
 }
 
 #banner {
@@ -146,5 +162,11 @@ footer {
     }
     footer {
         padding: 2px;
+    }
+    #nav {
+        padding-left: 2vw;
+    }
+    #navbarSupportedContent {
+        padding-left: 2vw;
     }
 }

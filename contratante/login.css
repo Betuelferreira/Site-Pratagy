@@ -10,6 +10,14 @@ body {
     padding: 0;
 }
 
+#nav {
+    padding-left: 8vw;
+}
+
+#navbarSupportedContent {
+    padding-left: 40vw;
+}
+
 footer {
     text-align: center;
     background-color: #0046a1;
@@ -83,5 +91,11 @@ h2 {
         width: 90%;
         height: 50vh;
         align-items: center;
+    }
+    #nav {
+        padding-left: 2vw;
+    }
+    #navbarSupportedContent {
+        padding-left: 2vw;
     }
 }
