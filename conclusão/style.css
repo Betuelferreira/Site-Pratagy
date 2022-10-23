@@ -1,38 +1,38 @@
-.navbar{
-    background-color: #007afd;  
-   padding: 0;
-  } 
-  
-  
-#aviso{
-  
-  margin-top: 25vh;
-  margin-bottom: 25vh;
-  text-align: center;
+.navbar {
+    background-color: #007afd;
+    padding: 0;
 }
 
-  footer{
+#nav {
+    padding-left: 8vw;
+}
+
+#navbarSupportedContent {
+    padding-left: 35vw;
+}
+
+li {
+    margin-left: 2vw;
+}
+
+#aviso {
+    margin-top: 25vh;
+    margin-bottom: 25vh;
+    text-align: center;
+}
+
+footer {
     text-align: center;
     background-color: #0046a1;
     padding: 6px;
     color: #fff;
     position: absolute;
-    width: 100% ;
+    width: 100%;
     bottom: 0;
-  }
-
-  
-  
-
-
-
-  @media (max-width: 650px) {
-  
-  
-  footer{
-  
-   padding: 2px;
-   
 }
 
-  }
+@media (max-width: 650px) {
+    footer {
+        padding: 2px;
+    }
+}

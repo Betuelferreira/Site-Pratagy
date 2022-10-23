@@ -3,6 +3,18 @@
     padding: 0;
 }
 
+#nav {
+    padding-left: 8vw;
+}
+
+#navbarSupportedContent {
+    padding-left: 35vw;
+}
+
+li {
+    margin-left: 2vw;
+}
+
 footer {
     text-align: center;
     background-color: #0046a1;

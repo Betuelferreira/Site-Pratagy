@@ -11,17 +11,18 @@
     padding-left: 35vw;
 }
 
-#lcadiado {
-    margin-left: 4vw;
-}
-
 li {
     margin-left: 2vw;
 }
 
-li:hover {
-    background-color: aqua;
+#lcadiado {
+    margin-left: 4vw;
 }
+
+
+/* li:hover {
+    background-color: aqua;
+} */
 
 #banner {
     background-size: cover;

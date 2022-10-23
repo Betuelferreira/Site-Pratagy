@@ -15,7 +15,11 @@ body {
 }
 
 #navbarSupportedContent {
-    padding-left: 40vw;
+    padding-left: 35vw;
+}
+
+li {
+    margin-left: 2vw;
 }
 
 footer {
