@@ -35,4 +35,13 @@ footer {
     footer {
         padding: 2px;
     }
+    #nav {
+        padding-left: 2vw;
+    }
+    #navbarSupportedContent {
+        padding-left: 2vw;
+    }
+    li {
+        margin-left: 0vw;
+    }
 }

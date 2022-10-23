@@ -170,4 +170,7 @@ footer {
     #navbarSupportedContent {
         padding-left: 2vw;
     }
+    li {
+        margin-left: 0vw;
+    }
 }

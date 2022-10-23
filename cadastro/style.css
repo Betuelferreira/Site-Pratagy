@@ -92,4 +92,13 @@ footer {
     #tcadastro {
         margin-right: 10%;
     }
+    #nav {
+        padding-left: 2vw;
+    }
+    #navbarSupportedContent {
+        padding-left: 2vw;
+    }
+    li {
+        margin-left: 0vw;
+    }
 }
