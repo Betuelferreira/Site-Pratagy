@@ -14,6 +14,26 @@
 li {
     margin-left: 2vw;
 }
+h1{
+    text-align: center;
+    font-size: 25px;
+}
+#efetivo{
+
+    border: black 1px solid;
+    border-radius: 8px;
+}
+
+#estagio{
+
+    border: black 1px solid;
+    border-radius: 8px;
+}
+#aprendiz{
+
+    border: black 1px solid;
+    border-radius: 8px;
+}
 
 footer {
     text-align: center;
