@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #007afd;
+    padding: 0;
+}
+
+#nav {
+    padding-left: 8vw;
+}
+
+#navbarSupportedContent {
+    padding-left: 35vw;
+}
+
+li {
+    margin-left: 2vw;
+}
+
+footer {
+    text-align: center;
+    background-color: #0046a1;
+    padding: 6px;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    bottom: 0vh;
+}
