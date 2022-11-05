@@ -63,13 +63,13 @@ footer {
         flex-direction: column;
         align-items: center
     }
-    #efetivo {
+    #editar {
         margin: 0%;
         /* margin-left: 10%; */
         width: 50%;
         height: 50vh;
     }
-    #estagio {
+    #consutar {
         margin: 0%;
         width: 50%;
         height: 50vh;
