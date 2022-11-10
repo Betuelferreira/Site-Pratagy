@@ -61,15 +61,15 @@
 
         <h2 id="inscrição">INSCRIÇÃO</h2>
 
-        <div class="form">
+        <form class="form">
             <div class="mb-3">
                 <label for="nome" class="form-label">Nome completo</label>
-                <input type="nome" class="form-control" id="nomeUser" placeholder="Nome e sobrenome">
+                <input type="nome" class="form-control" id="nomeUser" placeholder="Nome e sobrenome" required>
             </div>
 
             <div class="mb-3">
                 <label for="email" class="form-label">E-mail</label>
-                <input type="email" class="form-control" id="email" placeholder="name@example.com">
+                <input type="email" class="form-control" id="email" placeholder="name@example.com" required>
             </div>
             <div class="d-flex">
                 <div class="col-md-3">
@@ -88,7 +88,7 @@
                 <div id="data" class="col-md-3">
 
                     <label for="data" class="form-label"> Data de nascimento </label>
-                    <input type="date" class="form-control" id="DATA" />
+                    <input type="date" class="form-control" id="DATA" required />
                 </div>
 
             </div>
@@ -103,10 +103,11 @@
                 <input id="enviar" type="file" id="myFile" name="filename" required>
             </form> -->
 
-        </div>
+       
 
         <a id="lbotão" href="../conclusão/fcadastro.html"><button id="botão" type="submit">INSCREVER-SE</button></a>
-
+            
+    </form>
     </div>
 
 

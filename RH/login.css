@@ -18,9 +18,9 @@ body {
     padding-left: 35vw;
 }
 
-li {
-    margin-left: 2vw;
-}
+/* label{
+    font-family: Impact, 'Arial', sans-serif;
+} */
 
 footer {
     text-align: center;
