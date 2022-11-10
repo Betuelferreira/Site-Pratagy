@@ -37,7 +37,16 @@ h1{
     border-radius: 8px;
     width: 25%;
     height: 60vh;
-    background-color: #beddff;
+    background-color: #ffffff;
+}
+#d1{
+    padding-top: 20px;
+}
+#d2{
+    padding-top: 20px;
+}
+#d3{
+    padding-top: 20px;
 }
 
 #estagio{
@@ -46,7 +55,7 @@ h1{
     border-radius: 8px;
     width: 25%;
     height: 60vh;
-    background-color: #beddff;
+    background-color: #ffffff;
 }
 #aprendiz{
 
@@ -54,7 +63,7 @@ h1{
     border-radius: 8px;
     width: 25%;
     height: 60vh;
-    background-color: #beddff;
+    background-color: #ffffff;
 }
 
 footer {
