@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #007afd;
+    padding: 0;
+}
+
+#nav {
+    padding-left: 8vw;
+}
+
+#navbarSupportedContent {
+    padding-left: 35vw;
+}
+
+li {
+    margin-left: 2vw;
+}
+h1{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    color: #0046a1;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#v{
+    padding-top: 5vh;
+    font-size: 1.7em;
+}
+
+footer {
+    text-align: center;
+    background-color: #0046a1;
+    padding: 6px;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    bottom: 0vh;
+}
