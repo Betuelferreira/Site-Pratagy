@@ -15,18 +15,93 @@ li {
     margin-left: 2vw;
 }
 h1{
-    padding-top: 10px;
+    padding-top: 4%;
     text-align: center;
     font-size: 25px;
     color: #0046a1;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
-#v{
-    padding-top: 5vh;
-    font-size: 1.7em;
+
+h2{
+    padding-top:5%;
+    text-align: center;
+    font-size: 22px;
+    color: #0046a1;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#paragrafo{
+    text-align: center;
+    
 }
 
+#info{
+    
+    height: 60vh;
+    display: flex;
+}
+
+#id1{
+    border: black 1px solid;
+    text-align: center;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#id2{
+    border: black 1px solid;
+    text-align: center;
+}
+
+#id3{
+    border: black 1px solid;
+    text-align: center;
+}
+
+#id4{
+    border: black 1px solid;
+    text-align: center;
+    size: 10px;
+}
+
+#id5{
+    border: black 1px solid;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#idP1{
+    border-top: black 1px solid;
+    padding-top: 8%;
+
+}
+#idP2{
+    border-top: black 1px solid;
+    padding-top: 8%;
+
+}
+#idP3{
+    border-top: black 1px solid;
+    padding-top: 8%;
+
+}
+#idP4{
+    border-top: black 1px solid;
+    padding-top: 8%;
+
+}
+#idP5{
+    border-top: black 1px solid;
+    padding-top: 8%;
+
+}
+/* hr{
+    color: rgb(0, 0, 0);
+    border: rgb(0, 0, 0) 2px solid;
+    width: 100%;
+} */
 footer {
     text-align: center;
     background-color: #0046a1;
